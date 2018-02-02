@@ -1,4 +1,4 @@
-repository: CSCfi/IAM-tools
+repository: CSCfi/HakaSpecs
 
 output: web
 
@@ -12,7 +12,7 @@ site_title: Haka Specifications
 company_name: CSC
 
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-#github_editme_path: CSCfi/IAM-tools
+github_editme_path: CSCfi/HakaSpecs/blob/gh-pages/
 
 # the preview server used. Leave as is.
 host: 127.0.0.1

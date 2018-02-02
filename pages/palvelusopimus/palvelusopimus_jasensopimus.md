@@ -2,6 +2,7 @@
 title: Haka-luottamusverkosto
 sidebar: home_sidebar
 permalink: palvelusopimus_jasensopimus.html
+folder: palvelusopimus
 ---
 
 ## Luottamusverkoston jäsenen liittymissopimus
