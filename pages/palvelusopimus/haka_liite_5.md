@@ -2,6 +2,7 @@
 title: Haka-luottamusverkosto - palvelusopimus
 sidebar: home_sidebar
 permalink: haka_liite_5.html
+folder: palvelusopimus
 ---
 
 ## Liite 5: Tunnistuspalvelun käytössä tarvittavat ohjelmalisenssit

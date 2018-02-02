@@ -3,6 +3,7 @@ title: Haka Federation – Service Agreement
 sidebar: home_sidebar
 permalink: haka_appendix_1.html
 summary: An English translation of the Finnish document dated April 13th 2011
+folder: palvelusopimus
 ---
 
 ## Appendix 1: Definitions

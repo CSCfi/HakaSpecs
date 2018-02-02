@@ -2,6 +2,7 @@
 title: Haka-luottamusverkosto - palvelusopimus
 sidebar: home_sidebar
 permalink: haka_liite_3.html
+folder: palvelusopimus
 ---
 
 ## Liite 3. Palvelukuvaus ja vaatimukset

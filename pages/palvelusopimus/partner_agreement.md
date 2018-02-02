@@ -2,6 +2,7 @@
 title: Haka Federation
 sidebar: home_sidebar
 permalink: partner_agreement.html
+folder: palvelusopimus
 ---
 
 ## Service Agreement for Federation Partners

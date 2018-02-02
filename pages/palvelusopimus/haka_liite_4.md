@@ -2,6 +2,7 @@
 title: Haka-luottamusverkosto - palvelusopimus
 sidebar: home_sidebar
 permalink: haka_liite_4.html
+folder: palvelusopimus
 ---
 
 ## Liite 4: Toimintaprosessi luottamusverkostoon liittymiselle ja toiminnan aloittamiselle

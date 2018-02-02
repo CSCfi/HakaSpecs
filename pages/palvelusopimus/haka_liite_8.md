@@ -2,6 +2,7 @@
 title: Haka-luottamusverkosto - palvelusopimus
 sidebar: home_sidebar
 permalink: haka_liite_8.html
+folder: palvelusopimus
 ---
 
 ## Liite 8: Palveluhinnasto

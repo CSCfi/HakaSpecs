@@ -2,6 +2,7 @@
 title: Haka-luottamusverkosto - palvelusopimus
 sidebar: home_sidebar
 permalink: haka_liite_7.html
+folder: palvelusopimus
 ---
 
 ## Liite 7: Loppukäyttäjän suostumusmalli henkilötietojen luovuttamiseen

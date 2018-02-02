@@ -2,6 +2,7 @@
 title: Haka-luottamusverkosto - palvelusopimus
 sidebar: home_sidebar
 permalink: haka_liite_1.html
+folder: palvelusopimus
 ---
 
 ## Liite 1. Tunnistamispalveluun liittyvät keskeiset käsitteet 
