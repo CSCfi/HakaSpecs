@@ -1,0 +1,104 @@
+entries:
+- title: sidebar
+  #product: Haka Specs
+  #levels: two
+  #version: 6.0
+  folders:
+  - title: Palvelusopimus
+    output: web, pdf
+    folderitems:
+
+    - title: Jäsensopimus
+      url: /palvelusopimus_jasensopimus.html
+      output: web, pdf
+      type: homepage
+
+    - title: Kumppanisopimus
+      url: /palvelusopimus_kumppani.html
+      output: web, pdf
+      type: homepage
+
+      subfolders:
+      - title: Liitteet
+        output: web, pdf
+      
+        subfolderitems:
+        - title: Liite 1
+          url: /haka_liite_1.html
+          output: web, pdf
+
+        - title: Liite 2
+          url: /haka_liite_2.html
+          output: web, pdf
+
+        - title: Liite 3
+          url: /haka_liite_3.html
+          output: web, pdf
+
+        - title: Liite 4
+          url: /haka_liite_4.html
+          output: web, pdf
+
+        - title: Liite 5
+          url: /haka_liite_5.html
+          output: web, pdf
+
+        - title: Liite 6
+          url: /haka_liite_6.html
+          output: web, pdf
+
+        - title: Liite 7
+          url: /haka_liite_7.html
+          output: web, pdf
+
+        - title: Liite 8
+          url: /haka_liite_8.html
+          output: web, pdf
+
+    - title: Member Agreement
+      url: /member_agreement.html
+      output: web, pdf
+      type: homepage
+
+    - title: Partner Agreement
+      url: /partner_agreement.html
+      output: web, pdf
+      type: homepage
+      subfolders:
+      - title: Appendices
+        output: web, pdf
+      
+        subfolderitems:
+        - title: Appendix 1
+          url: /haka_appendix_1.html
+          output: web, pdf
+
+        - title: Appendix 2
+          url: /haka_appendix_2.html
+          output: web, pdf
+
+        - title: Appendix 3
+          url: /haka_appendix_3.html
+          output: web, pdf
+
+        - title: Appendix 4
+          url: /haka_appendix_4.html
+          output: web, pdf
+
+        - title: Appendix 5
+          url: /haka_appendix_5.html
+          output: web, pdf
+
+        - title: Appendix 6
+          url: /haka_appendix_6.html
+          output: web, pdf
+
+        - title: Appendix 7
+          url: /haka_appendix_7.html
+          output: web, pdf
+
+        - title: Appendix 8
+          url: /haka_appendix_8.html
+          output: web, pdf
+
+      
