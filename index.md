@@ -15,6 +15,11 @@ Specifications will go over a regulated process to bring them to effect.
 After decisions have been made, the specification documents will be brought to
 their definite location in [Haka wiki](https://wiki.eduuni.fi/x/rYegAQ).
 
+## Site is built with...
+
+* This site utilises [Github Pages](https://pages.github.com)
+* Which utilises [Jekyll](https://jekyllrb.com)
+* [Theme](http://idratherbewriting.com/documentation-theme-jekyll) is provided by [idratherbewriting.com](http://idratherbewriting.com)
 
 ## Palvelusopimus
 
