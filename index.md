@@ -21,7 +21,16 @@ their definite location in [Haka wiki](https://wiki.eduuni.fi/x/rYegAQ).
 * Which utilises [Jekyll](https://jekyllrb.com)
 * [Theme](http://idratherbewriting.com/documentation-theme-jekyll) is provided by [idratherbewriting.com](http://idratherbewriting.com)
 
-## Palvelusopimus
+## Mixed language
+
+Documents on the site are modified in their original language. Some documents are
+in Finnish, some in English. The work language in Haka is Finnish.
+
+
+## Palvelusopimus 2008
+
+2010-luvulla käytössä ollut palvelusopimus ajoittuu vuodelle 2008 (29.9.2008).
+Palvelusopimuksen liitteitä on päivitetty 2011 (18.3.2011).
 
 - [Luottamusverkoston jäsenen liittymissopimus](palvelusopimus_jasensopimus.html)
 - [Luottamusverkoston kumppanin liittymissopimus](palvelusopimus_kumppani.html)
@@ -36,7 +45,9 @@ their definite location in [Haka wiki](https://wiki.eduuni.fi/x/rYegAQ).
    - [Liite 8](haka_liite_8.html)
 - Operaattorin tulkintaohje sopimusliitteelle 3
 
-## Agreement
+## Agreement 2008
+
+Agreement that was in use in 2nd decade of the 2nd millennium dates back to 29.9.2008. Attachements have been updated 18.3.2011.
 
 - [Service Agreement for Federation Members](member_agreement.html)
 - [Service Agreement for Federation Partners](partner_agreement.html)

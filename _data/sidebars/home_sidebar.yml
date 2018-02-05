@@ -4,7 +4,7 @@ entries:
   #levels: two
   #version: 6.0
   folders:
-  - title: Palvelusopimus
+  - title: Palvelusopimus 2008
     output: web, pdf
     folderitems:
 
