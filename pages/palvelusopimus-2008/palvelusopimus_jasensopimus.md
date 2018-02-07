@@ -91,7 +91,8 @@ Operaattori ei vastaa luottamusverkon jäsenelle tai tämän loppukäyttäjille 
 
 Operaattori ja luottamusverkoston jäsen sitoutuvat olemaan vaatimasta vahingonkorvausta muilta luottamusverkoston jäseniltä tai ulkopuolisilta palveluntarjoajilta vahingoista, jotka ovat aiheutuneet tunnistamispalvelujen käytöstä, niiden käyttökatkoksista tai muista tunnistamispalvelujen käyttöön liittyvistä seikoista. Operaattori on velvollinen huolehtimaan siitä, että vastaava sitoumus otetaan myös ulkopuolisten palveluntarjoajien kanssa tehtäviin sopimuksiin. Mikäli operaattori ei ole huolehtinut edellä mainitun sitoumuksen huomioimisesta luottamusverkoston ulkopuolisten palveluntarjoajien kanssa tekemissään sopimuksissa, vastaa operaattori luottamusverkon jäsenelle tästä laiminlyönnistä aiheutuneesta vahingosta. 
 
-Vahingonkorvausvastuusta, joka aiheutuu henkilötietojen käsittelystä vastoin henkilötietolain säännöksiä, on säädetty henkilötietolain 47 §:ssä.
+Vahingonkorvausvastuusta, joka aiheutuu henkilötietojen käsittelystä vastoin 
+henkilötietolain säännöksiä, on säädetty henkilötietolain 47 §:ssä.
 Kumpikaan osapuoli ei vastaa mistään välillisestä tai epäsuorasta vahingosta.
 
 ### 5. Palvelun tarjoamisen keskeyttäminen ja palvelun käytön estymisen tai huonon laadun  seuraamukset
