@@ -19,7 +19,9 @@ Tässä dokumentissa määritellään luottamusverkoston toiminnan tarkoitus ja 
 
 **Haka-luottamusverkosto** (johon viitataan tässä sopimusliitteessä sanalla luottamusverkosto) on Suomessa opetusministeriön hallinnonalaan kuuluvien yliopistojen ja ammattikorkeakoulujen perustama luottamusverkosto. Luottamusverkoston toiminnan tarkoitus on tukea korkeakoulujen ja tutkimuslaitosten toimintaa kehittämällä ja ylläpitämällä käyttäjän tunnistamiseen liittyvää järjestelmää.
 
-Luottamusverkostoon voivat liittyä jäseniksi yliopistot ja ammattikorkeakoulut, julkisella rahoituksella toimivat tutkimuslaitokset, yliopistolliset sairaalat ja muu opetusta ja tutkimusta tukevat organisaatiot siten kuin jäljempänä kohdassa 2.2. kuvataan. Lisäksi luottamusverkostossa voi olla kumppaneina mukana näiden ulkopuolisia palveluntarjoajia. Edellytyksenä sekä jäsenenä että kumppanina toimimiselle kuitenkin on, että henkilötietojen käsittelyn tarkoitus palveluntarjoajan tai kotiorganisaation henkilörekisterissä ei ole ristiriidassa luottamusverkoston tarkoituksen kanssa (Henkilötietolaki 7§) ja että organisaatio täyttää luottamusverkoston asettamat muut vaatimukset (Esitetty liitteessä 3).
+Luottamusverkostoon voivat liittyä jäseniksi yliopistot ja ammattikorkeakoulut, julkisella rahoituksella toimivat tutkimuslaitokset, yliopistolliset sairaalat ja muu opetusta ja tutkimusta tukevat organisaatiot siten kuin jäljempänä kohdassa 2.2. kuvataan. Lisäksi luottamusverkostossa voi olla kumppaneina mukana näiden ulkopuolisia palveluntarjoajia. Edellytyksenä sekä jäsenenä että kumppanina toimimiselle kuitenkin on, että henkilötietojen käsittelyn tarkoitus palveluntarjoajan tai kotiorganisaation henkilörekisterissä ei ole ristiriidassa luottamusverkoston tarkoituksen kanssa 
+<a name='hetil-1' />(Henkilötietolaki 7§)
+ ja että organisaatio täyttää luottamusverkoston asettamat muut vaatimukset (Esitetty liitteessä 3).
 
 Luottamusverkoston jäsen voi toimia luottamusverkostossa sekä kotiorganisaationa että palveluntarjoajana.
 
@@ -27,7 +29,7 @@ Luottamusverkoston jäsen voi toimia luottamusverkostossa sekä kotiorganisaatio
 
 **Palveluntarjoajalla** tarkoitetaan Luottamusverkoston jäsenen liittymissopimuksen tai Luottamusverkoston kumppanin liittymissopimuksen allekirjoittanutta organisaatiota, joka tarjoaa sähköisiä palveluja kotiorganisaatioiden tunnistamille loppukäyttäjille. Palveluntarjoaja voi olla korkeakoulu, tutkimuslaitos, niiden muodostama yhteistyöelin, tai muu toimija.
 
-#### 2.2. Osapuolet
+#### <a name="osapuolet" />2.2. Osapuolet
 
 Luottamusverkoston osapuolet jaotellaan seuraaviin ryhmiin
 - **jäsenet**, jotka voivat toimia luottamusverkostossa sekä kotiorganisaationa että palveluntarjoajana.
@@ -45,6 +47,7 @@ Luottamusverkoston osapuolet jaotellaan seuraaviin ryhmiin
 
 Luottamusverkoston operaattorin toiminnasta kotiorganisaationa tai palveluntarjoajana päättää ohjausryhmä.
  
+![luottamusverkoston osapuolet](https://object.pouta.csc.fi/Haka/haka-sopimus-liite-2-osapuolet.png)
 Kuva 1. Luottamusverkoston osapuolet.
 
 ### 3. Luottamusverkoston toimielimet
@@ -60,8 +63,8 @@ Luottamusverkoston ohjausryhmä on neuvoa-antava toimielin, jonka tehtävä on e
 - varmentajien valitseminen,
 - riskien hallinnointi,
 - jatkokehityshankkeet,
-- luottamusverkoston versiopäivitysten aikataulun hyväksyntä,
-- attribuuttien skeeman (funetEduPerson-skeema) hyväksyntä
+- <a name='paivitykset' />luottamusverkoston versiopäivitysten aikataulun hyväksyntä,
+- <a name='fep-2' />attribuuttien skeeman (funetEduPerson-skeema) hyväksyntä
 
 Ohjausryhmä valitaan kahdeksi vuodeksi kerrallaan ja sen kahdeksan jäsentä nimetään seuraavasti
 - yliopistojen IT-johtajien Fucio-verkosto nimeää kaksi (2) jäsentä, 
@@ -76,7 +79,8 @@ Operaattori toimii ohjausryhmän kokoonkutsujana, valmistelijana ja sihteerinä.
 Luottamusverkossa toimii tekninen neuvoa-antava työryhmä, jonka tehtävä on olla luottamusverkoston osapuolia yhdistävä tekninen keskustelufoorumi. Teknisen työryhmän tehtäviin kuuluu erityisesti
 
 - luottamusverkostoon liittyvät parhaat käytännöt
-- päätösehdotuksen laatiminen ohjausryhmää varten luottamusverkossa välitettävien attribuuttien skeemasta (funetEduPerson-skeema)
+- päätösehdotuksen laatiminen ohjausryhmää varten luottamusverkossa välitettävien attribuuttien skeemasta 
+<a name='fep-1' />(funetEduPerson-skeema)
 - luottamusverkoston versiopäivitykset
 
 Tekninen työryhmä kokoontuu luottamusverkoston operaattorin tai ohjausryhmän nimeämän tahon kutsusta. Ohjausryhmän sihteerit välittävät tietoa teknisen työryhmän ja ohjausryhmän välillä.

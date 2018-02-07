@@ -76,7 +76,9 @@ Toimiessaan kotiorganisaationa luottamusverkoston jäsen
 -	jos tunnistaminen edellyttää henkilötietojen luovuttamista, sitoutuu huolehtimaan siitä, että sen loppukäyttäjät ennen tunnistamispalvelujen käytön edellyttämää henkilötietojen luovuttamista antavat suostumuksensa niiden luovuttamiseen palveluntarjoajille (suostumusmalli liitteessä 7), 
 -	kertoo loppukäyttäjälle, mitä tietoja palvelujen käyttämisestä kerätään kotiorganisaation toimesta, mihin niitä käytetään ja mahdollisesti luovutetaan (rekisteröidyn informointi), 
 -	vastaa siitä, että henkilötietoja palveluntarjoajalle luovutettaessa vain palveluntarjoajan toiminnan kannalta tarpeellisia tietoja luovutetaan, ja 
--	vastaa siitä, että luovutettavat tiedot ovat oikeita ja ajan tasalla ja noudattavat yhteisiä linjauksia (esimerkiksi funetEduPerson-skeemaa) erityisesti henkilötietojen rakenteen (syntaksi) ja merkityksen (semantiikka) osalta siten kuin liitteessä 3 määritellään.
+-	vastaa siitä, että luovutettavat tiedot ovat oikeita ja ajan tasalla ja noudattavat yhteisiä linjauksia 
+(esimerkiksi <a name='fep-1' />funetEduPerson-skeemaa)
+ erityisesti henkilötietojen rakenteen (syntaksi) ja merkityksen (semantiikka) osalta siten kuin liitteessä 3 määritellään.
 
 Toimiessaan palveluntarjoajana luottamusverkoston jäsen 
 
@@ -92,7 +94,7 @@ Operaattori ei vastaa luottamusverkon jäsenelle tai tämän loppukäyttäjille 
 Operaattori ja luottamusverkoston jäsen sitoutuvat olemaan vaatimasta vahingonkorvausta muilta luottamusverkoston jäseniltä tai ulkopuolisilta palveluntarjoajilta vahingoista, jotka ovat aiheutuneet tunnistamispalvelujen käytöstä, niiden käyttökatkoksista tai muista tunnistamispalvelujen käyttöön liittyvistä seikoista. Operaattori on velvollinen huolehtimaan siitä, että vastaava sitoumus otetaan myös ulkopuolisten palveluntarjoajien kanssa tehtäviin sopimuksiin. Mikäli operaattori ei ole huolehtinut edellä mainitun sitoumuksen huomioimisesta luottamusverkoston ulkopuolisten palveluntarjoajien kanssa tekemissään sopimuksissa, vastaa operaattori luottamusverkon jäsenelle tästä laiminlyönnistä aiheutuneesta vahingosta. 
 
 Vahingonkorvausvastuusta, joka aiheutuu henkilötietojen käsittelystä vastoin 
-henkilötietolain säännöksiä, on säädetty henkilötietolain 47 §:ssä.
+<a name='hetil-1' />henkilötietolain säännöksiä, on säädetty henkilötietolain 47 §:ssä.
 Kumpikaan osapuoli ei vastaa mistään välillisestä tai epäsuorasta vahingosta.
 
 ### 5. Palvelun tarjoamisen keskeyttäminen ja palvelun käytön estymisen tai huonon laadun  seuraamukset

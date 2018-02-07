@@ -22,7 +22,7 @@ CA
 DS
 : (engl. discovery service) Luottamusverkoston operaattorin tai palveluntarjoajan asettama palvelin, josta loppukäyttäjä valitsee kotiorganisaationsa.
 
-FunetEduPerson-skeema
+<a name='fep-1' />FunetEduPerson-skeema
 : Määritys luottamusverkostossa siirrettävien luottamusverkoston yhteisten attribuuttien rakenteesta ja merkityksestä.
 
 
@@ -30,12 +30,12 @@ Haka-luottamusverkosto
 : Suomessa opetusministeriön hallinnonalaan kuuluvien yliopistojen ja ammattikorkeakoulujen perustama luottamusverkosto, johon tässä sopimusliitteessä viitataan sanalla luottamusverkosto.
 
 Henkilötieto
-: (henkilötietolaki)  Henkilötiedolla tarkoitetaan kaikenlaisia luonnollista henkilöä taikka hänen ominaisuuksiaan tai elinolosuhteitaan kuvaavia merkintöjä, jotka voidaan tunnistaa häntä tai hänen perhettään tai hänen kanssaan yhteisessä taloudessa eläviä koskeviksi. 
+: <a name='hetil-1' />(henkilötietolaki)  Henkilötiedolla tarkoitetaan kaikenlaisia luonnollista henkilöä taikka hänen ominaisuuksiaan tai elinolosuhteitaan kuvaavia merkintöjä, jotka voidaan tunnistaa häntä tai hänen perhettään tai hänen kanssaan yhteisessä taloudessa eläviä koskeviksi. 
 
 : Attribuutti tai useamman attribuutin muodostama joukko on henkilötieto, jos yllä oleva määritelmä täyttyy.
 
 Henkilötiedon käsittely
-: (henkilötietolaki) Henkilötietojen käsittelyllä tarkoitetaan henkilötietojen keräämistä, tallettamista, järjestämistä, käyttöä, siirtämistä, luovuttamista, säilyttämistä, muuttamista, yhdistämistä, suojaamista, poistamista, tuhoamista sekä muita henkilötietoihin kohdistuvia toimenpiteitä.
+: <a name='hetil-2' />(henkilötietolaki) Henkilötietojen käsittelyllä tarkoitetaan henkilötietojen keräämistä, tallettamista, järjestämistä, käyttöä, siirtämistä, luovuttamista, säilyttämistä, muuttamista, yhdistämistä, suojaamista, poistamista, tuhoamista sekä muita henkilötietoihin kohdistuvia toimenpiteitä.
 
 
 Henkilöllisyys, identiteetti
@@ -105,7 +105,7 @@ Tekninen ryhmä
 : Neuvoa-antava toimielin, jonka tehtävä on olla luottamusverkoston osapuolia yhdistävä tekninen keskustelufoorumi.
 
 Tietosuojaseloste
-: Henkilötietolain 24 §:n sisältämän informointivelvoitteen ja 10 §:n rekisteriselosteen saatavillapitovelvoitteen yhdistämiseksi luotu käsite, josta huolehtimalla henkilötietoja keräävien verkkopalveluiden henkilötietolainmukaisuus voidaan varmistaa.
+: <a name='hetil-3' />Henkilötietolain 24 §:n sisältämän informointivelvoitteen ja 10 §:n rekisteriselosteen saatavillapitovelvoitteen yhdistämiseksi luotu käsite, josta huolehtimalla henkilötietoja keräävien verkkopalveluiden henkilötietolainmukaisuus voidaan varmistaa.
 
 Valtuutus
 : (engl. authorisation) Loppukäyttäjän oikeus palvelun käyttämiseen.

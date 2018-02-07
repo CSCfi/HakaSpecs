@@ -19,13 +19,24 @@ their definite location in [Haka wiki](https://wiki.eduuni.fi/x/rYegAQ).
 
 * This site utilises [Github Pages](https://pages.github.com)
 * Which utilises [Jekyll](https://jekyllrb.com)
-* [Theme](http://idratherbewriting.com/documentation-theme-jekyll) is provided by [idratherbewriting.com](http://idratherbewriting.com)
+* [Theme](http://idratherbewriting.com/documentation-theme-jekyll) is modified
+from a theme provided by [idratherbewriting.com](http://idratherbewriting.com)
 
 ## Mixed language
 
 Documents on the site are modified in their original language. Some documents are
 in Finnish, some in English. The work language in Haka is Finnish.
 
+## Muutostarpeet palvelusopimukseen 2018
+
+Alasivulla [palvelusopimuksen muutostarpeet](palvelusopimus_muutostarpeet-2018.html) (kesken)
+on kirjattu Haka-operoinnin näkemys keskeisistä uudistustarpeista palvelusopimukseen
+vuonna 2018.
+
+## Need for change 2018
+
+The changes needed in the agreement in year 2018 and forward are listed on separate
+(draft) [page](palvelusopimus_muutostarpeet-2018.html). The page is in Finnish.
 
 ## Palvelusopimus 2008
 

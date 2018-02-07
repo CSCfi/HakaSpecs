@@ -101,4 +101,13 @@ entries:
           url: /haka_appendix_8.html
           output: web, pdf
 
+  - title: Palvelusopimus 2018
+    output: web, pdf
+    folderitems:
+
+    - title: Sopimuksen muutostarpeet
+      url: /palvelusopimus_muutostarpeet-2018.html
+      output: web, pdf
+      type: homepage
+
       
