@@ -7,7 +7,7 @@ folder: palvelusopimus
 
 ## Liite 3. Palvelukuvaus ja vaatimukset
 
-### 1. Operaattorin tarjoamat palvelut
+### <a name='oper-palvelut' />1. Operaattorin tarjoamat palvelut
 
 Tässä luvussa esitellään Haka-luottamusverkoston operaattorin tarjoamat, luottamusverkoston toimintaan liittyvät peruspalvelut, joihin kaikilla luottamusverkoston jäsenillä on oikeus. Luottamusverkoston kumppaneilla on oikeus luvun 1.2. mukaisiin palveluihin.
 

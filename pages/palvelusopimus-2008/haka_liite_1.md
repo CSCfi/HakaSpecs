@@ -83,7 +83,7 @@ Operaattori
 Ohjausryhmä
 : Neuvoa-antava toimielin, joka edustaa luottamusverkoston osapuolia ja jonka tehtävä on edistää ja koordinoida luottamusverkoston rakentamista ja käyttöä.
 
-Palveluntarjoaja
+<a name='palveluntarjoaja' />Palveluntarjoaja
 : (engl. Service Provider) Luottamusverkoston jäsen tai kumppani, joka tarjoaa sähköisiä palveluja kotiorganisaatioiden tunnistamille käyttäjille. Palveluntarjoaja asettaa SAML-palvelun ja rekisteröi sen luottamusverkostoon.
 
 SAML

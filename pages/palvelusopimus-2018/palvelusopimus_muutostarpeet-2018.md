@@ -30,6 +30,22 @@ Strategisten linjausten käynnistämät muutokset ja nykyisen Haka-palvelusopimu
 
 #### Henkilötietolaki
 
+Myös Suomessa henkilötietojen suojan lainsäädäntö on uudistumassa EU:n tietosuoja-asetuksen uudistuessa.
+
+* [GDPR](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679)
+* [Data Protection](https://ec.europa.eu/info/law/law-topic/data-protection_en)
+
+Uutta henkilötietosuojan lainsäädäntöä valmisteleva työryhmä 
+[on ehdottanut](http://julkaisut.valtioneuvosto.fi/handle/10024/80098)
+henkilötietolakia kumottavaksi ja säädettävän yleisen tietosuojalain, jolla täsmennetään ja täydennetään EU:n tietosuoja-asetusta.
+
+Etenkin asian keskeneräisyyden johdosta Haka-palvelusopimuksessa pitäisi välttää viittaamasta nimenomaiseen lakiin. Sen sijaan lienee parempi viitata henkilötietojen suojan lainsäädäntöön yleisemmin.
+
+Yksityiskohtaiset tarkemmat viittaukset lakeihin, asetuksiin ja verkostossa noudatettaviin määrityksiin lienee parempi koostaa liitteeseen, jolloin niiden ajantasaisuuden ylläpito on joustavampaa.
+
+
+#### Sopimuksen 2008 viittauksia vanhaan henkilötietolakiin
+
 * Jäsensopimuksessa 
    [viitataan](palvelusopimus_jasensopimus.html#hetil-1)
    henkilötietolain pykälään
@@ -42,11 +58,30 @@ Strategisten linjausten käynnistämät muutokset ja nykyisen Haka-palvelusopimu
    * [tietosuojaseloste](haka_liite_1.html#hetil-3)
 * Liitteessä 2 [viitataan](haka_liite_2.html#hetil-1) kohdassa 2.1
 
-#### Safe Harbour
+#### Safe Harbor
+
+Safe Harbor oli EU:n ja Yhdysvaltojen välinen sopimus henkilötietojen käsittelystä ja siirrosta Euroopan taloualueelta Yhdysvaltoihin alkaen vuodesta 1998. Käytäntö mitätöitiin 6.10.2015 EU-tuomioistuimessa.
+
+Safe Harbor -periaatteisiin viitataan kumppanisopimuksen
+[kohdassa](palvelusopimus_kumppani.html#safeharbor) 6. henkilötietojen suoja ja tietoturva. Kohdassa viitataan muutenkin sanamuotoihin ja periaatteisiin, jotka tunnetaan henkilötietolaista. Ei liene tarpeen toistaa sopimuksessa lainsäädännön vaatimuksia uudelleen.
+
+Jatkossa Haka-verkoston osapuolten toteuttamaan henkilötietojen käsittelyyn on luontevampaa noudattaa 
+[GEANT Code of Conduct tietosuojakäytännettä](https://wiki.refeds.org/display/CODE/Data+Protection+Code+of+Conduct+Home),
+jonka
+[2. versio](https://wiki.refeds.org/display/CODE/Code+of+Conduct+ver+2.0+project)
+mahdollistanee tietojen siirron myös Yhdysvaltoihin (kun määrätyt olosuhteet täyttyvät).
+
+Sen sijaan, että varsinaisessa sopimuksessa viitataa yksityiskohtaisesti tiettyihin käytänteisiin, lienee parempi vaihtoehto koota viittaukset pakottaviin määrityksiin ja toimintokäytänteisiin erilliseen liitteeseen.
 
 ### Operoinnin tuottamat lisäpalvelut: vahvempi tunnistaminen Hakassa
 
+Liitteessä 3 kohdassa 
+[1. Operaattorin tarjoamat palvelut](haka_liite_3.html#oper-palvelut)
+luetellaan operaattorin luottamusverkostossa tarjoamat palvelut. Vahvemman tunnistamisen lisäpalvelussa operaattorilla on perinteisiä palveluja keskeisempi rooli mm. henkilötietojen käsittelyssä.
 
+Vahvemman tunnistamisen palvelu on lisättävä Liitteeseen 3 operaattorin tuottamana verkoston lisäpalveluna.
+
+Liitteen 3 palvelujen luetteloinnissa on syytä tehdä ero verkoston toiminnan kannalta olennaisesta luottamusverkoston toimintaan liittyvistä peruspalveluista ja palvelimista (Service Provider - SP), joita operaattori tai operointia tuottava organisaatio CSC saattaa verkostoon lisätä.
 
 ### Sopimus yleisemmäksi käytettävien teknologioiden osalta
 
@@ -57,6 +92,22 @@ Strategisten linjausten käynnistämät muutokset ja nykyisen Haka-palvelusopimu
    * [Liitteessä 1](haka_liite_1.html#fep-1)
    * [Liitteessä 2](haka_liite_2.html#fep-2), kohdassa 3.1 Ohjausryhmä
    * [Liitteessä 2](haka_liite_2.html#fep-1), kohdassa 3.2 Tekninen työryhmä
+   
+
+#### Terminologia
+
+Haka-luottamuverkostossa käytetään termiä _palvelu_ tarkoittaen useita eri asioita. Liiteessä 3 kohdassa
+[1. Operaattorin tarjoamat palvelut](haka_liite_3.html#oper-palvelut)
+puhutaan verkoston toiminnan kannalta tarpeellisista peruspalveluista ja
+Liitteessä 1 kohdassa
+[palveluntarjoaja](haka_liite_1.html#palveluntarjoaja)
+esitellään termi, jolla viitataan verkostoon liitettävään palveluun (Service Provider - SP).
+
+Suomen vahvan säköisen tunnistamisen verkoston kehittämisessä ja muissa tunnistusratkaisuissa Hakan tarkoittaman _palveluntarjoaja_, tai _palvelu_ -termien sijasta on alettu käyttää termiä: _'asiointipalvelu'_.
+
+Haka-verkoston käyttämä termistö on muutenkin ristiintarkistettava IAM-verkoston 
+[sanaston](https://wiki.eduuni.fi/display/IAMVERKOSTO/Sanasto)
+kanssa. Ristiin käytettävien termien rinnalle pitää löytää kuvaavampia ilmauksia sekaannuksien välttämiseksi.
 
 
 #### Päivitysten aikataulusta päättäminen
@@ -106,7 +157,7 @@ Sote- ja maakuntauudistuksen muuttaessa toimintakenttää entisestään lienee s
 
 ### Teknisen ryhmän ja IAM-verkoston päällekäisyys
 
-VUoden 2008 sopimuksen perusteella Hakassa toimii sekä tekninen ryhmä, että IAM-verkosto. Käytännössä on osoittautunut, että ryhmät ovat pitkälti päällekäisiä. Teknisessä ryhmässä organisaatioita usein edustaa samat henkilöt, jotka ovat läsnä IAM-verkoston tapaamisissa.
+Vuoden 2008 sopimuksen perusteella Hakassa toimii sekä tekninen ryhmä, että IAM-verkosto. Käytännössä on osoittautunut, että ryhmät ovat pitkälti päällekäisiä. Teknisessä ryhmässä organisaatioita usein edustaa samat henkilöt, jotka ovat läsnä IAM-verkoston tapaamisissa.
 
 Monet teknisen ryhmän päätettäväksi tulevat asiat esitellään IAM-verkoston tapaamisissa. Asiat tulevat käsitellyksi kahdesti, kun ne joudutaan IAM-verkoston tapaamisten lisäksi viemään erikseen tekniselle ryhmälle, joka esittelee asian edelleen ohjausryhmän päätettäväksi.
 
