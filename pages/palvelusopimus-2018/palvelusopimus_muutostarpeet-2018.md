@@ -2,7 +2,7 @@
 title: Haka-palvelusopimuksen muutostarpeet vuonna 2018
 sidebar: home_sidebar
 permalink: palvelusopimus_muutostarpeet-2018.html
-folder: palvelusopimus
+folder: palvelusopimus-2018
 ---
 
 ## Luettelo on keskeneräinen luonnos
